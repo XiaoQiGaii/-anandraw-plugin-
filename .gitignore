@@ -1,0 +1,5 @@
+/.venv/
+/__pycache__/
+base.png
+base_overlay.png
+font.ttf
